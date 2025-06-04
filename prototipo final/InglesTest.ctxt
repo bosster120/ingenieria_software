@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=InglesTest
+comment1.params=
+comment1.target=void\ testGenerarPregunta()
+comment2.params=
+comment2.target=void\ testVerificarRespuestaCorrecta()
+comment3.params=
+comment3.target=void\ testVerificarRespuestaIncorrecta()
+numComments=4

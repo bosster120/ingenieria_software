@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Ingles
+comment1.params=
+comment1.target=java.lang.String\ generarPregunta()
+comment2.params=respuesta
+comment2.target=boolean\ verificarRespuesta(java.lang.String)
+numComments=3
